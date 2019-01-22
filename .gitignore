@@ -1,0 +1,6 @@
+/lnmp/db
+/mysql/data
+/mysql/loging.cnf
+/mysql/logs
+
+!.gitkeep
